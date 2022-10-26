@@ -444,7 +444,7 @@ export default {
               {
                 label: "My default",
                 value:
-                  "https://raw.githubusercontent.com/zer4tul/now-subconverter/master/subconverter/pref.ini",
+                  "https://raw.githubusercontent.com/zer4tul/now-subconverter/master/files/pref.ini",
               },
             ],
           },
