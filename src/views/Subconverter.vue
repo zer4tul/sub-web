@@ -441,6 +441,11 @@ export default {
                 value:
                   "https://raw.githubusercontent.com/SleepyHeeead/subconverter-config/master/remote-config/special/basic.ini",
               },
+              {
+                label: "My default",
+                value:
+                  "https://raw.githubusercontent.com/zer4tul/now-subconverter/master/subconverter/pref.ini",
+              },
             ],
           },
         ],
