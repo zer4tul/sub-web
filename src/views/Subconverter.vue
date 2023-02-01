@@ -301,20 +301,11 @@ export default {
             options: [
               {
                 label: "不选，由接口提供方提供",
-                value: "",
+                value: "https://raw.githubusercontent.com/zer4tul/now-subconverter/master/files/pref.ini",
               },
             ],
           },
           {
-            label: "Default",
-            options: [
-              {
-                  label: "Default",
-                  value:
-                    "https://raw.githubusercontent.com/zer4tul/now-subconverter/master/files/pref.ini",
-                },
-            ],
-           },
             label: "LM-Firefly (Online, 与Github 同步)",
             options: [
               {
