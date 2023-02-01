@@ -306,6 +306,15 @@ export default {
             ],
           },
           {
+            label: "Default",
+            options: [
+              {
+                  label: "Default",
+                  value:
+                    "https://raw.githubusercontent.com/zer4tul/now-subconverter/master/files/pref.ini",
+                },
+            ],
+           },
             label: "LM-Firefly (Online, 与Github 同步)",
             options: [
               {
@@ -440,11 +449,6 @@ export default {
                 label: "Basic(仅GEOIP CN + Final)",
                 value:
                   "https://raw.githubusercontent.com/SleepyHeeead/subconverter-config/master/remote-config/special/basic.ini",
-              },
-              {
-                label: "My default",
-                value:
-                  "https://raw.githubusercontent.com/zer4tul/now-subconverter/master/files/pref.ini",
               },
             ],
           },
