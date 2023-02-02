@@ -301,7 +301,7 @@ export default {
             options: [
               {
                 label: "不选，由接口提供方提供",
-                value: "https://raw.githubusercontent.com/zer4tul/now-subconverter/master/files/pref.ini",
+                value: "",
               },
             ],
           },
